@@ -128,19 +128,11 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 
 ## 7️⃣ Radix Sort;
 
-
 <p align="center">
 <img src="imgs/radix2.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 13: Gif esquemático do funcionamento do método.</em>
-</p>
-
-<p align="center">
-<img src="imgs/radix.gif" width="350"/> 
-</p>
-<p align="center">
-<em>Imagem 14: Gif gráfico do funcionamento do método.</em>
 </p>
 
 ## 8️⃣ Shell Sort; 
