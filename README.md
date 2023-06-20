@@ -28,14 +28,14 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 ## 1️⃣ Bubble Sort
 
 <p align="center">
-<img src="imgs/bubble.gif" width="350"/> 
+<img src="imgs/bubble2.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 1: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <p align="center">
-<img src="imgs/bubble2.gih" width="350"/> 
+<img src="imgs/bubble.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 2: Gif gráfico do funcionamento do método.</em>
@@ -45,14 +45,14 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 
 
 <p align="center">
-<img src="imgs/bubble.gif" width="350"/> 
+<img src="imgs/bucket2.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 3: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <p align="center">
-<img src="imgs/bubble2.gih" width="350"/> 
+<img src="imgs/bucket.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 4: Gif gráfico do funcionamento do método.</em>
@@ -62,14 +62,14 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 
 
 <p align="center">
-<img src="imgs/bubble.gif" width="350"/> 
+<img src="imgs/selection2.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 5: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <p align="center">
-<img src="imgs/bubble2.gih" width="350"/> 
+<img src="imgs/selection.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 6: Gif gráfico do funcionamento do método.</em>
@@ -79,14 +79,14 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 
 
 <p align="center">
-<img src="imgs/bubble.gif" width="350"/> 
+<img src="imgs/insertion2.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 7: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <p align="center">
-<img src="imgs/bubble2.gih" width="350"/> 
+<img src="imgs/insertion.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 8: Gif gráfico do funcionamento do método.</em>
@@ -96,14 +96,14 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 
 
 <p align="center">
-<img src="imgs/bubble.gif" width="350"/> 
+<img src="imgs/merge2.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 9: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <p align="center">
-<img src="imgs/bubble2.gih" width="350"/> 
+<img src="imgs/merge.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 10: Gif gráfico do funcionamento do método.</em>
@@ -113,14 +113,14 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 
 
 <p align="center">
-<img src="imgs/bubble.gif" width="350"/> 
+<img src="imgs/heap2.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 11: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <p align="center">
-<img src="imgs/bubble2.gih" width="350"/> 
+<img src="imgs/heap.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 12: Gif gráfico do funcionamento do método.</em>
@@ -130,14 +130,14 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 
 
 <p align="center">
-<img src="imgs/bubble.gif" width="350"/> 
+<img src="imgs/radix2.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 13: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <p align="center">
-<img src="imgs/bubble2.gih" width="350"/> 
+<img src="imgs/radix.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 14: Gif gráfico do funcionamento do método.</em>
@@ -147,14 +147,14 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 
 
 <p align="center">
-<img src="imgs/bubble.gif" width="350"/> 
+<img src="imgs/shell2.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 15: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <p align="center">
-<img src="imgs/bubble2.gih" width="350"/> 
+<img src="imgs/shell.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 16: Gif gráfico do funcionamento do método.</em>
@@ -164,14 +164,14 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 
 
 <p align="center">
-<img src="imgs/bubble.gif" width="350"/> 
+<img src="imgs/counting2.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 17: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <p align="center">
-<img src="imgs/bubble2.gih" width="350"/> 
+<img src="imgs/counting.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 18: Gif gráfico do funcionamento do método.</em>
@@ -181,14 +181,14 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 
 
 <p align="center">
-<img src="imgs/bubble.gif" width="350"/> 
+<img src="imgs/quick2.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 19: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <p align="center">
-<img src="imgs/bubble2.gih" width="350"/> 
+<img src="imgs/quick.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 20: Gif gráfico do funcionamento do método.</em>
