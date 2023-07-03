@@ -38,7 +38,7 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 <img src="imgs/bubble2.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 1: Gif esquemático do funcionamento do método.</em>
+<em>Gif 1: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <!--
@@ -46,7 +46,7 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 <img src="imgs/bubble.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 2: Gif gráfico do funcionamento do método.</em>
+<em>Gif 2: Gif gráfico do funcionamento do método.</em>
 </p>
 -->
 ## 2️⃣ Bucket Sort
@@ -63,7 +63,7 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 <img src="imgs/bucket2.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 3: Gif esquemático do funcionamento do método.</em>
+<em>Gif 3: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <!--
@@ -71,7 +71,7 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 <img src="imgs/bucket.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 4: Gif gráfico do funcionamento do método.</em>
+<em>Gif 4: Gif gráfico do funcionamento do método.</em>
 </p>
 -->
 ## 3️⃣ Selection Sort
@@ -88,14 +88,14 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 <img src="imgs/selection2.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 5: Gif esquemático do funcionamento do método.</em>
+<em>Gif 5: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <p align="center">
 <img src="imgs/selection.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 6: Gif gráfico do funcionamento do método.</em>
+<em>Gif 6: Gif gráfico do funcionamento do método.</em>
 </p>
 
 ## 4️⃣ Insertion Sort;
@@ -111,7 +111,7 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 <img src="imgs/insertion2.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 7: Gif esquemático do funcionamento do método.</em>
+<em>Gif 7: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <!--
@@ -119,7 +119,7 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 <img src="imgs/insertion.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 8: Gif gráfico do funcionamento do método.</em>
+<em>Gif 8: Gif gráfico do funcionamento do método.</em>
 </p>
 -->
 ## 5️⃣ Merge Sort;
@@ -129,14 +129,14 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 <img src="imgs/merge2.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 9: Gif esquemático do funcionamento do método.</em>
+<em>Gif 9: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <p align="center">
 <img src="imgs/merge.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 10: Gif gráfico do funcionamento do método.</em>
+<em>Gif 10: Gif gráfico do funcionamento do método.</em>
 </p>
 
 ## 6️⃣ Heap Sort;
@@ -146,14 +146,14 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 <img src="imgs/heap2.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 11: Gif esquemático do funcionamento do método.</em>
+<em>Gif 11: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <p align="center">
 <img src="imgs/heap.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 12: Gif gráfico do funcionamento do método.</em>
+<em>Gif 12: Gif gráfico do funcionamento do método.</em>
 </p>
 
 ## 7️⃣ Radix Sort;
@@ -162,7 +162,7 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 <img src="imgs/radix2.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 13: Gif esquemático do funcionamento do método.</em>
+<em>Gif 13: Gif esquemático do funcionamento do método.</em>
 </p>
 
 ## 8️⃣ Shell Sort; 
@@ -172,14 +172,14 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 <img src="imgs/shell2.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 15: Gif esquemático do funcionamento do método.</em>
+<em>Gif 15: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <p align="center">
 <img src="imgs/shell.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 16: Gif gráfico do funcionamento do método.</em>
+<em>Gif 16: Gif gráfico do funcionamento do método.</em>
 </p>
 
 ## 9️⃣ Counting Sort;
@@ -189,14 +189,14 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 <img src="imgs/counting2.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 17: Gif esquemático do funcionamento do método.</em>
+<em>Gif 17: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <p align="center">
 <img src="imgs/counting.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 18: Gif gráfico do funcionamento do método.</em>
+<em>Gif 18: Gif gráfico do funcionamento do método.</em>
 </p>
 
 ## 🔟 Quick Sort; 
@@ -206,12 +206,12 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 <img src="imgs/quick2.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 19: Gif esquemático do funcionamento do método.</em>
+<em>Gif 19: Gif esquemático do funcionamento do método.</em>
 </p>
 
 <p align="center">
 <img src="imgs/quick.gif" width="350"/> 
 </p>
 <p align="center">
-<em>Imagem 20: Gif gráfico do funcionamento do método.</em>
+<em>Gif 20: Gif gráfico do funcionamento do método.</em>
 </p>
