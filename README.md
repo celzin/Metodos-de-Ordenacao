@@ -27,6 +27,13 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 
 ## 1️⃣ Bubble Sort
 
+- Algoritmo simples
+- **Como funciona:**
+  - Percorre repetidamente a lista, comparando pares de elementos adjacentes e trocando-os caso estejam na ordem errada
+  - Esse processo é repetido até que a lista esteja completamente ordenada
+- **Complexidade de tempo:** O(n<sup>2</sup>)
+- **Desvantavem(s):** Ineficiente para grandes conjuntos de dados
+
 <p align="center">
 <img src="imgs/bubble2.gif" width="350"/> 
 </p>
@@ -34,16 +41,24 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 <em>Imagem 1: Gif esquemático do funcionamento do método.</em>
 </p>
 
+<!--
 <p align="center">
 <img src="imgs/bubble.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 2: Gif gráfico do funcionamento do método.</em>
 </p>
-
+-->
 ## 2️⃣ Bucket Sort
 
-
+- **Como funciona:**
+- Divide o intervalo de valores em intervalos menores, chamados de "baldes", e distribui os elementos nos baldes correspondentes.
+- Em seguida, os elementos em cada balde são ordenados individualmente, geralmente usando outro algoritmo de ordenação.
+- Por fim, os elementos são concatenados na ordem correta.
+- **Complexidade de tempo:** O(n+k), onde n é o número de elementos e k é o número de baldes
+- **Vantagem(s):** Eficiente quando os elementos de entrada são distribuídos de maneira uniforme
+- **Desvantavem(s):** Ineficiente para grandes conjuntos de dados
+  
 <p align="center">
 <img src="imgs/bucket2.gif" width="350"/> 
 </p>
@@ -51,15 +66,23 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 <em>Imagem 3: Gif esquemático do funcionamento do método.</em>
 </p>
 
+<!--
 <p align="center">
 <img src="imgs/bucket.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 4: Gif gráfico do funcionamento do método.</em>
 </p>
-
+-->
 ## 3️⃣ Selection Sort
 
+- Algoritmo simples
+- **Como funciona:**
+  - Divide a lista em duas partes: uma parte ordenada e outra desordenada
+  - A cada iteração, o algoritmo encontra o menor elemento na parte desordenada e o coloca no final da parte ordenada
+  - Isso é repetido até que a lista inteira esteja ordenada
+- **Complexidade de tempo:** O(n<sup>2</sup>)
+- **Desvantavem(s):** Ineficiente para grandes conjuntos de dados
 
 <p align="center">
 <img src="imgs/selection2.gif" width="350"/> 
@@ -77,6 +100,12 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 
 ## 4️⃣ Insertion Sort;
 
+- **Como funciona:**
+- Constrói uma lista ordenada um elemento de cada vez, inserindo cada novo elemento na posição correta.
+- Percorre a lista, comparando cada elemento com os elementos anteriores e movendo-os uma posição para a direita, se necessário. 
+- **Complexidade de tempo:** O(n<sup>2</sup>)
+- **Vantagem(s):** Eficiente para pequenos conjuntos de dados ou quando a lista já está quase ordenada
+- Seu desempenho é melhor que o **Bubble Sort** e o **Selection Sort** em muitos casos.
 
 <p align="center">
 <img src="imgs/insertion2.gif" width="350"/> 
@@ -85,13 +114,14 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 <em>Imagem 7: Gif esquemático do funcionamento do método.</em>
 </p>
 
+<!--
 <p align="center">
 <img src="imgs/insertion.gif" width="350"/> 
 </p>
 <p align="center">
 <em>Imagem 8: Gif gráfico do funcionamento do método.</em>
 </p>
-
+-->
 ## 5️⃣ Merge Sort;
 
 
