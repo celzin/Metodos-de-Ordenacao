@@ -30,7 +30,7 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 - Algoritmo simples
 - **Como funciona:**
   - Percorre repetidamente a lista, comparando pares de elementos adjacentes e trocando-os caso estejam na ordem errada
-  - Esse processo é repetido até que a lista esteja completamente ordenada
+  - _Esse processo é repetido até que a lista esteja completamente ordenada_
 - **Complexidade de tempo:** O(n<sup>2</sup>)
 - **Desvantavem:** Ineficiente para grandes conjuntos de dados
 
@@ -52,9 +52,9 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 ## 2️⃣ Bucket Sort
 
 - **Como funciona:**
-- Divide o intervalo de valores em intervalos menores, chamados de "baldes", e distribui os elementos nos baldes correspondentes.
-- Em seguida, os elementos em cada balde são ordenados individualmente, geralmente usando outro algoritmo de ordenação.
-- Por fim, os elementos são concatenados na ordem correta.
+  - Divide o intervalo de valores em intervalos menores, chamados de "baldes", e distribui os elementos nos baldes correspondentes.
+  - Em seguida, os elementos em cada balde são ordenados individualmente, geralmente usando outro algoritmo de ordenação.
+  - Por fim, os elementos são concatenados na ordem correta.
 - **Complexidade de tempo:** O(n+k), onde n é o número de elementos e k é o número de baldes
 - **Vantagem:** Eficiente quando os elementos de entrada são distribuídos de maneira uniforme
 - **Desvantavem:** Ineficiente para grandes conjuntos de dados
@@ -80,7 +80,7 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 - **Como funciona:**
   - Divide a lista em duas partes: uma parte ordenada e outra desordenada
   - A cada iteração, o algoritmo encontra o menor elemento na parte desordenada e o coloca no final da parte ordenada
-  - Isso é repetido até que a lista inteira esteja ordenada
+  - _Isso é repetido até que a lista inteira esteja ordenada_
 - **Complexidade de tempo:** O(n<sup>2</sup>)
 - **Desvantavem:** Ineficiente para grandes conjuntos de dados
 
@@ -102,8 +102,8 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 ## 4️⃣ Insertion Sort;
 
 - **Como funciona:**
-- Constrói uma lista ordenada um elemento de cada vez, inserindo cada novo elemento na posição correta.
-- Percorre a lista, comparando cada elemento com os elementos anteriores e movendo-os uma posição para a direita, se necessário. 
+  - Constrói uma lista ordenada um elemento de cada vez, inserindo cada novo elemento na posição correta.
+  - Percorre a lista, comparando cada elemento com os elementos anteriores e movendo-os uma posição para a direita, se necessário. 
 - **Complexidade de tempo:** O(n<sup>2</sup>)
 - **Vantagem:** Eficiente para pequenos conjuntos de dados ou quando a lista já está quase ordenada
 - Seu desempenho é melhor que o **Bubble Sort** e o **Selection Sort** em muitos casos.
@@ -128,7 +128,7 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 - Princípio de **"Divisão e Conquista"**
 - **Como funciona:**
   - Divide a lista em duas metades, ordena cada metade separadamente e depois mescla as duas metades em uma única lista ordenada
-  - Esse processo é repetido recursivamente até que a lista esteja completamente ordenada.
+  - _Esse processo é repetido recursivamente até que a lista esteja completamente ordenada._
 - **Complexidade de tempo:** O(n log n)
 - **Vantagem:** Boa opção para grandes conjuntos de dados.
 
@@ -152,7 +152,7 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 - **Como funciona:**
   - Constrói uma árvore binária completa, chamada de heap, em que cada nó é maior ou igual aos seus filhos
   - O maior elemento é colocado na raiz da árvore e, em seguida, removido e colocado na posição correta
-  - Esse processo é repetido até que a lista esteja completamente ordenada
+  - _Esse processo é repetido até que a lista esteja completamente ordenada_
 - **Complexidade de tempo:** O(n log n) em todos os casos.
 
 <p align="center">
