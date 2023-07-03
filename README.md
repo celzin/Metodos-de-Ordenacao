@@ -178,11 +178,13 @@ Espera-se que essa compilação seja útil para entender os diferentes métodos 
 - **Complexidade de tempo:** O(d * (n + k)), onde d é o número de dígitos, n é o número de elementos e k é o intervalo dos valores
 - **Vantagem:** Classificação de elementos que têm uma representação fixa, como números inteiros.
   
+<div align="center">
+  
+[![](https://img.youtube.com/vi/ibtN8rY7V5k/0.jpg)](https://www.youtube.com/watch?v=ibtN8rY7V5k)
+
+</div>
 <p align="center">
-<img src="imgs/radix2.gif" width="350"/> 
-</p>
-<p align="center">
-<em>Gif 13: Gif esquemático do funcionamento do método.</em>
+<em>Link 1: Vídeo interativo do funcionamento do método.</em>
 </p>
 
 ## 8️⃣ Shell Sort; 
